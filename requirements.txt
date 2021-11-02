@@ -1,0 +1,7 @@
+nums
+jupyter
+sklearn
+pandas
+matplotlib
+modin
+xgboost
